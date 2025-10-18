@@ -32,14 +32,12 @@
                 <p
                     class="text-xl sm:text-2xl md:text-4xl font-bold sm:font-medium font-mono leading-8 md:leading-relaxed text-gray-900 trcking"
                 >
-                    🚧 Упс! У нас небольшая <br /> строительная вечеринка!
+                    🚧 Обновляем сайт, чтобы <br> сделать ещё лучше!
                 </p>
                 <span
-                    class="block text-[14px] sm:text-lg text-neutral-600/70 font-inter w-[82%] md:w-[50%] leading-6 md:leading-8 mx-auto"
+                    class="block text-[14px] sm:text-lg text-neutral-600/70 font-inter w-[82%] md:w-[75%] leading-6 md:leading-8 mx-auto"
                 >
-                    Мы готовим что-то потрясающее (и в процессе устраиваем
-                    небольшой беспорядок). Спасибо за терпение — мы обещаем, что
-                    оно того стоит!
+                    Мы вносим улучшения, чтобы сделать ваш опыт ещё лучше. Возвращайтесь чуть позже — всё скоро будет готово.
                 </span>
             </div>
 
