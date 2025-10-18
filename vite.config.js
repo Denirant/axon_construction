@@ -5,6 +5,7 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 export default defineConfig({
   plugins: [svelte()],
   server: {
-    port: 9850
+    port: 9850,
+    allowedHosts: ['www.axonai.tech']
   }
 })
